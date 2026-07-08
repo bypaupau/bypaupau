@@ -23,10 +23,10 @@ Me apasiona el desarrollo de software y la creación de proyectos que combinan t
 
 ## Conocimientos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,postgres,mysql,sqlite,sklearn&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,postgres,mysql,sqlite,sklearn,aws,vscode,docker&theme=light" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,figma,blender,ae,ai,ps,aws,notion,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=figma,blender,ae,ai,ps,notion&theme=light" />
 </p>
 
 ## Actualmente
