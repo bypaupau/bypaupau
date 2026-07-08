@@ -18,11 +18,13 @@ Me apasiona el desarrollo de software y la creación de proyectos que combinan t
 - 🎨 UI/UX
 - 🖌️ Ilustración digital
 - 🎬 Animación 2D
+- 🔍 Investigación
+- 📈 Análisis de Datos
 
 
 ## Conocimientos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,postgres,docker,figma,blender,ae,notion&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,postgres, mysql, sqlite, sklearn, docker,figma,blender,ae,notion&theme=light" />
 </p>
 
 ## Actualmente
