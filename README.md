@@ -1,5 +1,5 @@
 
-# ¡Hola! Soy Pau 👋
+# ¡Hola! Soy Pau
 <a href="https://www.linkedin.com/in/TU-USUARIO">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=githubpages&logoColor=white" />
 </a>
 
-Soy estudiante de Ingeniería en Computación de Ecuador 🇪🇨.
+Estudiante de Tercer Año de Ingeniería en Computación de Ecuador.
 
 Me apasiona el desarrollo de software y la creación de proyectos que combinan tecnología y creatividad. También tengo experiencia en diseño, ilustración y animación, por lo que disfruto desarrollar interfaces atractivas y experiencias de usuario cuidadas.
 
@@ -25,7 +25,7 @@ Me apasiona el desarrollo de software y la creación de proyectos que combinan t
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,postgres,docker,figma,blender,ae,notion&theme=light" />
 </p>
 
-## 🌱 Actualmente
+## Actualmente
 
 - Aprendiendo Android Development
 - Estudiando Algoritmos
