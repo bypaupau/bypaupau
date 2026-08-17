@@ -31,7 +31,6 @@ Me apasiona el desarrollo de software y la creación de proyectos que combinan t
 
 ## Actualmente
 
-- Aprendiendo Android Development
 - Estudiando Algoritmos
 - Construyendo proyectos para mi portafolio
 - Aprendiendo diseño y dibujo
