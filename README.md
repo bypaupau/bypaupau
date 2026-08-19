@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/paula-m-quintana">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://paumquintana.github.io/Portafolio/">
+<a href="https://bypaupau.github.io/Portafolio/">
   <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=githubpages&logoColor=white" />
 </a>
 
