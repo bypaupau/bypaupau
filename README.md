@@ -6,7 +6,10 @@
 <a href="https://bypaupau.github.io/Portafolio/">
   <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=githubpages&logoColor=white" />
 </a>
-
+<a href="https://www.figma.com/@bypaupau">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</a>
+ 
 Estudiante de Tercer Año de Ingeniería en Computación de Ecuador.
 
 Me apasiona el desarrollo de software y la creación de proyectos que combinan tecnología y creatividad. También tengo experiencia en diseño, ilustración y animación, por lo que disfruto desarrollar interfaces atractivas y experiencias de usuario cuidadas.
