@@ -1,10 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="156" height="40" viewBox="0 0 188 48" role="img" aria-labelledby="title desc">
-  <title id="title">LinkedIn</title>
-  <desc id="desc">Enlace al perfil de LinkedIn de Pau</desc>
-  <rect x="1" y="1" width="186" height="46" rx="23" fill="#DCEEFF" stroke="#BFDDF2" stroke-width="2"/>
-  <rect x="15" y="13" width="22" height="22" rx="6" fill="#31678E"/>
-  <circle cx="21" cy="19" r="1.8" fill="#DCEEFF"/>
-  <rect x="19.3" y="22" width="3.4" height="8.3" rx="1.2" fill="#DCEEFF"/>
-  <path d="M25.1 30.3V22h3.3v1.2c.7-.9 1.8-1.6 3.3-1.6 2.4 0 3.9 1.5 3.9 4.5v4.2h-3.4v-3.8c0-1.2-.4-2.1-1.5-2.1-1.2 0-1.7.9-1.7 2.1v3.8h-3.9Z" fill="#DCEEFF"/>
-  <text x="52" y="30" fill="#31678E" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="650" letter-spacing="0.1">LinkedIn</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.28 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9f3f9;
+      }
+
+      .cls-2 {
+        fill: #6aa0ef;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 15px;
+        letter-spacing: .06em;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        font-family: MochibopBoldDemo, MochibopBold;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #94b8f7;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        font-size: 26px;
+        letter-spacing: .06em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x=".26" y="-.07" width="140.82" height="40" rx="16.99" ry="16.99"/>
+  <rect class="cls-5" x="16.48" y="3.75" width="31.59" height="31.59" rx="8.24" ry="8.24"/>
+  <text class="cls-4" transform="translate(23.81 26.51)"><tspan x="0" y="0">in</tspan></text>
+  <text class="cls-2" transform="translate(57.22 24.2)"><tspan x="0" y="0">LinkedIn</tspan></text>
+  <text class="cls-3" transform="translate(57.87 24.02)"><tspan x="0" y="0">LinkedIn</tspan></text>
 </svg>
