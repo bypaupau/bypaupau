@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="156" height="40" viewBox="0 0 188 48" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio</title>
+  <desc id="desc">Enlace al portfolio de Pau</desc>
+  <rect x="1" y="1" width="186" height="46" rx="23" fill="#FFE0EC" stroke="#F3C5D6" stroke-width="2"/>
+  <rect x="14.5" y="14" width="23" height="20" rx="5" fill="none" stroke="#A45372" stroke-width="2.5"/>
+  <path d="M19.5 14v-1.5c0-1.1.9-2 2-2h3c1.1 0 2 .9 2 2V14" fill="none" stroke="#A45372" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M15.8 22.2c3.2 1.7 6.7 2.5 10.2 2.5 3.6 0 6.7-.8 10.2-2.5" fill="none" stroke="#A45372" stroke-width="2.2" stroke-linecap="round"/>
+  <circle cx="26" cy="22.2" r="1.8" fill="#A45372"/>
+  <text x="52" y="30" fill="#A45372" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="650" letter-spacing="0.1">Portfolio</text>
+</svg>

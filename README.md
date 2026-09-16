@@ -1,14 +1,16 @@
 
 # ¡Hola! Soy Pau
-<a href="https://www.linkedin.com/in/paula-m-quintana">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://bypaupau.github.io/Portafolio/">
-  <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=githubpages&logoColor=white" />
-</a>
-<a href="https://www.figma.com/@bypaupau">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/paula-m-quintana/">
+    <img src="./assets/linkedin.svg" alt="LinkedIn" width="156" height="40">
+  </a>&nbsp;&nbsp;
+  <a href="https://bypaupau.github.io/Portafolio/">
+    <img src="./assets/portfolio.svg" alt="Portfolio" width="156" height="40">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.figma.com/@bypaupau">
+    <img src="./assets/figma.svg" alt="Figma" width="156" height="40">
+  </a>
+</p>
  
 Estudiante de Tercer Año de Ingeniería en Computación de Ecuador.
 

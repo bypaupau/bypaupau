@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="156" height="40" viewBox="0 0 188 48" role="img" aria-labelledby="title desc">
+  <title id="title">LinkedIn</title>
+  <desc id="desc">Enlace al perfil de LinkedIn de Pau</desc>
+  <rect x="1" y="1" width="186" height="46" rx="23" fill="#DCEEFF" stroke="#BFDDF2" stroke-width="2"/>
+  <rect x="15" y="13" width="22" height="22" rx="6" fill="#31678E"/>
+  <circle cx="21" cy="19" r="1.8" fill="#DCEEFF"/>
+  <rect x="19.3" y="22" width="3.4" height="8.3" rx="1.2" fill="#DCEEFF"/>
+  <path d="M25.1 30.3V22h3.3v1.2c.7-.9 1.8-1.6 3.3-1.6 2.4 0 3.9 1.5 3.9 4.5v4.2h-3.4v-3.8c0-1.2-.4-2.1-1.5-2.1-1.2 0-1.7.9-1.7 2.1v3.8h-3.9Z" fill="#DCEEFF"/>
+  <text x="52" y="30" fill="#31678E" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="650" letter-spacing="0.1">LinkedIn</text>
+</svg>
